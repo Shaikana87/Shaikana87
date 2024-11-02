@@ -35,7 +35,7 @@
   <a href="https://linkedin.com/in/shaikanas2401" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-left: 10px;" />
   </a>
-  <a href="[https://github.com/Shaikana87/Shaikanas87/blob/main/README.md](https://github.com/Shaikana87)" target="_blank">
+  <a href="https://github.com/Shaikana87" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github.png" />
   </a>
   <a href="mailto:shaikanas2401@gmail.com" target="_blank">
