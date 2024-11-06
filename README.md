@@ -25,7 +25,7 @@
 - 🤝 Talk to me about web development, algorithmic computations, and system designs.  
 - 📫 How to reach me: [shaikanas2401@gmail.com](mailto:shaikanas2401@gmail.com).  
 
-🔭 **Resume Link**: [RESUME](https://drive.google.com/file/d/1WAGQLrJftqiHD8eiqg8P5UshHsixjCYv/view?usp=sharing)
+🔭 **Resume Link**: [RESUME](https://drive.google.com/file/d/1agEa7qtKNZG7v4DtCsjbe19FTniRtEb1/view?usp=sharing)
 
 ---
 
